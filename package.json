@@ -1,0 +1,14 @@
+{
+  "name": "eric_firstnode",
+  "version": "1.0.0",
+  "description": "\"This is my first node project\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "KING_EJC",
+  "license": "ISC",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
+}
